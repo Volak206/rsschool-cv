@@ -1,53 +1,50 @@
-# CV#1. Markdown & Git #  ![]
+# CV#1. Markdown & Git #  
 ***
 ## Name: ##
 #### Volik Aleksandr ####
 
 ## Contacts:
+**Location:** Nha Trang, Vietnam.
 **Phone:** +7-960-614-39-19 *(only Whatsapp & Telegram)*
-**VK:**
-**Discord:**
-**:**
-**:**
-**:**
+**Email:** volak206@gmail.com
+**Discord:** Aleksandr Volik (@Volak206) *(in rs-school server)*
+**GitHub:** [Volak206](https://github.com/Volak206)
+**VK:** [Aleksandr Volik](https://vk.com/volik95)
+
 ##About me:
+I started my career as a pyrotechnist.
+After that, I was a manager at a company that made pyrotechnic shows, and then I was a manager at a company that produced circus props and sent them around the world.
 
-##Skills
+Now I have decided to master the profession of a frontend developer because it has always been interesting to me, and I want to get a profession relevant in the next 5 years.
 
+##Skills:
+Now I don't have web skills.
 ##Code examples:
+```
+<h1>Hello world</h1>
+
+```
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Page</title>
+</head>
+<body>
+    <h1>Hello world</h1>
+</body>
+</html>
+```
 
 ##Experience:
-
+Now I don't have web experience.
 ##Education:
+All-Russian State University of Justice 2013-2018
+*(Specialist, law enforcement)*
 
 ##Languages:
-
-##
-
-
-
-
-
-
-
-
-
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
-Рекомендации к составлению CV:
-оформление CV на ваше усмотрение. Старайтесь выполнить работу максимально качественно. При выборе дизайна CV можно руководствоваться примерами, приведёнными в материалах к заданию
-CV составляется на английском языке.
-при составлении CV рекомендуется указывать реальные данные
-в CV добавьте своё фото или аватарку. Фото предпочтительнее
-в CV укажите актуальные контакты для связи, в т.ч никнейм на дискорд-сервере rs school
-в качестве примера кода приведите решение задачи с сайта Codewars.
-Если решённых задач пока нет, подойдёт задача, которую нужно решить при регистрации на Codewars
-код добавляется при помощи символов и тегов, а не картинкой
-для выполненных проектов добавьте название проекта, ссылку на код проекта на гитхабе или ссылку на страницу проекта.
-Если выполненных проектов пока нет, в качестве первого проекта укажите само CV
+* Russian (Native)
+* English (A1)
