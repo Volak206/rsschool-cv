@@ -9,7 +9,7 @@
 **Email:** volak206@gmail.com  \
 **Discord:** Aleksandr Volik (@Volak206) *(in rs-school server)*  \
 **GitHub:** [Volak206](https://github.com/Volak206)  \
-**VK:** [Aleksandr Volik](https://vk.com/volik95)  \
+**VK:** [Aleksandr Volik](https://vk.com/volik95)  
 
 ## About me:
 I started my career as a pyrotechnist.
